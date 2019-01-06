@@ -3,6 +3,7 @@ model
 save
 log
 submission
+data
 
 .vscode
 
